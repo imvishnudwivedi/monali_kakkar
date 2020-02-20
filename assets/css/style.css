@@ -208,13 +208,13 @@ p {
   .header-area .header-toggler {
     width: 55px;
     height: 40px;
-    border: 2px solid #000;
+    border: 2px solid white;
     text-align: center;
     cursor: pointer;
     line-height: 40px;
     border-radius: 5px; }
     .header-area .header-toggler i {
-      color: #000;
+      color: white;
       font-size: 24px; }
   .header-area .header-menu {
     margin-top: 29px; }
